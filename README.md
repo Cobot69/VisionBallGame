@@ -197,8 +197,11 @@ Images
 
 ![Screenshot 2024-08-08 183706](https://github.com/user-attachments/assets/ac56695e-47b1-44ff-b14b-bfcef9a84e2e)
 
+"Displays real-time hand recognition with detected hand landmarks and a blue circle indicating tracked positions in the webcam feed."
 
 ![Screenshot 2024-08-08 183626](https://github.com/user-attachments/assets/95d003bf-2b2e-49dc-9c3a-4af77a5e3480)
+
+"Displays real-time hand recognition with a blue circle on the index finger and another blue circle representing the enemy target in the webcam feed."
 
 
 Videos
