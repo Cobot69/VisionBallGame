@@ -3,7 +3,10 @@
 ##  Description
 "HandBallGame is a real-time interactive game using Python, OpenCV, and MediaPipe. Players use their hands to catch moving enemies on the screen. The game tracks hand movements via webcam and updates the score when an enemy is caught, providing an engaging experience through advanced hand-tracking and computer vision technologies."
 
+
+
 ## Table of Contents
+
 
 1. [Features](#features)
 2. [Usage](#usage)
@@ -13,6 +16,11 @@
 6. [Images and Videos](#images-and-videos)
 7. [Future Enhancements](#future-enhancements)
 8. [License](#license)
+
+
+
+
+
 
 # Features
 
@@ -53,7 +61,7 @@
  - Detection Accuracy: Ensure good lighting for accurate hand tracking.
    
 
-# Code Overview
+## Code Overview
 
 ```
 import mediapipe as mp
@@ -131,6 +139,8 @@ cv2.destroyAllWindows()
 
 ```
 
+
+
 ## Libraries Used:
 
  -OpenCV: For video capture and image processing.
@@ -138,6 +148,9 @@ cv2.destroyAllWindows()
  -MediaPipe: For hand tracking and landmark detection.
  
  -NumPy: For mathematical operations.
+
+
+
 
 ## Main Components:
 
@@ -149,6 +162,9 @@ cv2.destroyAllWindows()
  
  -Collision Detection: Checks for proximity between the player's finger and enemy to update the score.
 
+
+
+
 ## Game Logic:
 
  -Continuously captures and processes video frames.
@@ -158,6 +174,8 @@ cv2.destroyAllWindows()
  -Moves enemies to new positions when caught.
 
 
+
+
 # Concepts Used
 
  -Computer Vision: Real-time processing with OpenCV.
@@ -165,6 +183,8 @@ cv2.destroyAllWindows()
  -Hand Tracking: MediaPipe for detecting hand landmarks.
  
  -Game Mechanics: Score tracking and interaction through gesture recognition
+
+
  
 
 # Challenges Faced
@@ -177,14 +197,21 @@ cv2.destroyAllWindows()
  
 
 
+
 # Images and Videos
+
 
 Images
 
+![Screenshot 2024-08-08 183706](https://github.com/user-attachments/assets/ac56695e-47b1-44ff-b14b-bfcef9a84e2e)
 
+
+![Screenshot 2024-08-08 183626](https://github.com/user-attachments/assets/95d003bf-2b2e-49dc-9c3a-4af77a5e3480)
 
 
 Videos
+
+
 
 
 
